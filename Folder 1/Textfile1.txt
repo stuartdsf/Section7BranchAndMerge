@@ -1,2 +1,6 @@
 editted
+<<<<<<< HEAD
  again
+=======
+ on branch
+>>>>>>> adding-text
